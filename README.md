@@ -12,6 +12,9 @@
 
 # A summary of the data collected: number of attacks, number of malware samples, etc.
 ## ----------I will keep this section updated over the next week as I recieve more attacks----------
+## 66 attacks, 0 malware samples
 
 # Any unresolved questions raised by the data collected
-## How could I analysis this in more depth
+## How could I analysis this in more depth?
+
+JSON won't move from honeypot VM
